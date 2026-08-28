@@ -1,7 +1,7 @@
 ## Summary
 This is the backend for my AI Job application web API, Job Assist.
 Wtihin this API as an employer you can create job applications, you can also edit, close and delete job applcaitions.
-As a job seeker you you can apply to jobs, use the ai feature to analyse your cv/resume to check how well suited you are for the job
+As a job seeker you you can apply to jobs, use the ai feature to analyse your cv/resume to check how well suited you are for the job.
 My API also handles login and registration and you are able to do different things depending on the role you registered as.
 
 ## Stack:
