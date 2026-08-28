@@ -20,8 +20,11 @@ For this API I used:
 ## Future Improvements:
 I am happy with the state of my API but there are things I can improve and add to my API such as:
 -Homepage design
+
 -Filtering
+
 -Changing Applications when applied 
+
 
 
 ## Live Website Link:
